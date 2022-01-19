@@ -1,5 +1,5 @@
 {
-    "admin_password": "",
+    "admin_password": "1234567",
     "settings": {
         "name": "devShort shortlink service",
         "author": "The admin",
